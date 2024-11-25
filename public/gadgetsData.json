@@ -1,0 +1,287 @@
+{
+  "products": [
+    {
+      "product_id": "LAP001",
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/8Y3g2xJ/laptop-1.jpg",
+      "price": 999,
+      "category": "Laptops",
+      "description": "A high-performance laptop with a 13.3-inch InfinityEdge display.",
+      "specification": [
+        { "processor": "Intel Core i7" },
+        { "ram": "16GB" },
+        { "storage": "512GB SSD" },
+        { "graphics": "Intel Iris Xe" },
+        { "display": "13.3-inch FHD" }
+      ],
+      "availability": "In stock",
+      "rating": 4.7
+    },
+    {
+      "product_id": "LAP002",
+      "product_title": "MacBook Air M2",
+      "product_image": "https://i.ibb.co.com/MN0tL40/laptopo-2.jpg",
+      "price": 1199,
+      "category": "Laptops",
+      "description": "Apple MacBook Air with M2 chip, lightweight and powerful.",
+      "specification": [
+        { "processor": "Apple M2" },
+        { "ram": "8GB" },
+        { "storage": "256GB SSD" },
+        { "graphics": "Apple Integrated Graphics" },
+        { "display": "13.6-inch Retina" }
+      ],
+      "availability": "In stock",
+      "rating": 4.8
+    },
+    {
+      "product_id": "LAP003",
+      "product_title": "HP Spectre x360",
+      "product_image": "https://i.ibb.co.com/N3RyZQs/laptop-3.webp",
+      "price": 1099,
+      "category": "Laptops",
+      "description": "Convertible laptop with a 13.5-inch touchscreen and 360-degree hinge.",
+      "specification": [
+        { "processor": "Intel Core i7" },
+        { "ram": "16GB" },
+        { "storage": "512GB SSD" },
+        { "graphics": "Intel Iris Xe" },
+        { "display": "13.5-inch FHD" }
+      ],
+      "availability": "In stock",
+      "rating": 4.6
+    },
+    {
+      "product_id": "LAP004",
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://i.ibb.co.com/hHQ7cjV/laptop-4.webp",
+      "price": 1299,
+      "category": "Laptops",
+      "description": "Business laptop with 14-inch display and exceptional durability.",
+      "specification": [
+        { "processor": "Intel Core i7" },
+        { "ram": "16GB" },
+        { "storage": "1TB SSD" },
+        { "graphics": "Intel UHD Graphics" },
+        { "display": "14-inch FHD" }
+      ],
+      "availability": "In stock",
+      "rating": 4.9
+    },
+    {
+      "product_id": "LAP005",
+      "product_title": "Acer Aspire 5",
+      "product_image": "https://i.ibb.co.com/TDfgFFP/laptop-5.jpg",
+      "price": 599,
+      "category": "Laptops",
+      "description": "Affordable laptop with a 15.6-inch display for everyday tasks.",
+      "specification": [
+        { "processor": "Intel Core i5" },
+        { "ram": "8GB" },
+        { "storage": "256GB SSD" },
+        { "graphics": "Intel UHD Graphics" },
+        { "display": "15.6-inch HD" }
+      ],
+      "availability": "In stock",
+      "rating": 4.3
+    },
+    {
+      "product_id": "LAP006",
+      "product_title": "Asus ROG Zephyrus G14",
+      "product_image": "https://i.ibb.co.com/pvfr3dS/laptop-6.webp",
+      "price": 1449,
+      "category": "Laptops",
+      "description": "Powerful gaming laptop with a 14-inch display and AMD Ryzen processor.",
+      "specification": [
+        { "processor": "AMD Ryzen 9" },
+        { "ram": "16GB" },
+        { "storage": "1TB SSD" },
+        { "graphics": "NVIDIA GeForce RTX 3060" },
+        { "display": "14-inch QHD" }
+      ],
+      "availability": "In stock",
+      "rating": 4.8
+    },
+    {
+      "product_id": "PHN001",
+      "product_title": "Samsung Galaxy S22",
+      "product_image": "https://i.ibb.co.com/whK8ZL4/phone-1.jpg",
+      "price": 799,
+      "category": "Phones",
+      "description": "Flagship smartphone with a 6.1-inch display and triple camera setup.",
+      "specification": [
+        { "processor": "Snapdragon 8 Gen 1" },
+        { "ram": "8GB" },
+        { "storage": "128GB" },
+        { "camera": "Triple-lens (50MP + 12MP + 10MP)" },
+        { "display": "6.1-inch FHD+" }
+      ],
+      "availability": "In stock",
+      "rating": 4.5
+    },
+    {
+      "product_id": "PHN002",
+      "product_title": "Google Pixel 7",
+      "product_image": "https://i.ibb.co.com/DVH7xTJ/phone-2.webp",
+      "price": 649,
+      "category": "Phones",
+      "description": "Google's flagship phone with excellent camera quality and pure Android experience.",
+      "specification": [
+        { "processor": "Google Tensor G2" },
+        { "ram": "8GB" },
+        { "storage": "128GB" },
+        { "camera": "Dual-lens (50MP + 12MP)" },
+        { "display": "6.3-inch OLED" }
+      ],
+      "availability": "In stock",
+      "rating": 4.6
+    },
+    {
+      "product_id": "PHN003",
+      "product_title": "OnePlus 10 Pro",
+      "product_image": "https://i.ibb.co.com/ygDLgxw/phone-3.jpg",
+      "price": 799,
+      "category": "Phones",
+      "description": "Powerful smartphone with fast charging and smooth display.",
+      "specification": [
+        { "processor": "Snapdragon 8 Gen 1" },
+        { "ram": "12GB" },
+        { "storage": "256GB" },
+        { "camera": "Triple-lens (48MP + 50MP + 8MP)" },
+        { "display": "6.7-inch QHD+" }
+      ],
+      "availability": "In stock",
+      "rating": 4.4
+    },
+    {
+      "product_id": "ACC001",
+      "product_title": "Anker PowerCore 20100 Power Bank",
+      "product_image": "https://i.ibb.co.com/yX2NZyr/accessories-1.jpg",
+      "price": 59,
+      "category": "Accessories",
+      "description": "Portable power bank with 20100mAh capacity and fast charging.",
+      "specification": [
+        { "capacity": "20100mAh" },
+        { "output": "4.8A" },
+        { "charging": "USB-A, USB-C" },
+        { "weight": "0.77 pounds" }
+      ],
+      "availability": "In stock",
+      "rating": 4.4
+    },
+    {
+      "product_id": "ACC002",
+      "product_title": "Logitech MX Master 3 Mouse",
+      "product_image": "https://i.ibb.co.com/1n0m7Zj/accessories-2.jpg",
+      "price": 99,
+      "category": "Accessories",
+      "description": "Advanced wireless mouse with customizable buttons.",
+      "specification": [
+        { "sensor": "Laser" },
+        { "battery_life": "70 days" },
+        { "connectivity": "Bluetooth, USB receiver" },
+        { "weight": "141g" }
+      ],
+      "availability": "In stock",
+      "rating": 4.8
+    },
+    {
+      "product_id": "WAT001",
+      "product_title": "Apple Watch Series 8",
+      "product_image": "https://i.ibb.co.com/hBS2dcp/apple-watch-1.jpg",
+      "price": 399,
+      "category": "Smart Watches",
+      "description": "Advanced smartwatch with health tracking and ECG app.",
+      "specification": [
+        { "processor": "S8" },
+        { "display": "1.9-inch LTPO OLED" },
+        { "water_resistance": "50 meters" },
+        { "battery_life": "18 hours" }
+      ],
+      "availability": "In stock",
+      "rating": 4.9
+    },
+    {
+      "product_id": "WAT002",
+      "product_title": "Samsung Galaxy Watch 5",
+      "product_image": "https://i.ibb.co.com/ScsxW4d/apple-watch-2.jpg",
+      "price": 279,
+      "category": "Smart Watches",
+      "description": "Stylish smartwatch with advanced health tracking features.",
+      "specification": [
+        { "processor": "Exynos W920" },
+        { "display": "1.4-inch Super AMOLED" },
+        { "water_resistance": "50 meters" },
+        { "battery_life": "24 hours" }
+      ],
+      "availability": "In stock",
+      "rating": 4.5
+    },
+    {
+      "product_id": "MBK001",
+      "product_title": "MacBook Pro 14-inch",
+      "product_image": "https://i.ibb.co.com/Pt53FCn/macbook-1.jpg",
+      "price": 1999,
+      "category": "MacBooks",
+      "description": "Professional-grade MacBook with M1 Pro chip and 14-inch display.",
+      "specification": [
+        { "processor": "Apple M1 Pro" },
+        { "ram": "16GB" },
+        { "storage": "512GB SSD" },
+        { "display": "14.2-inch Retina" }
+      ],
+      "availability": "In stock",
+      "rating": 4.9
+    },
+    {
+      "product_id": "MBK002",
+      "product_title": "MacBook Pro 16-inch",
+      "product_image": "https://i.ibb.co.com/7WW8nM6/macbook-2.jpg",
+      "price": 2499,
+      "category": "MacBooks",
+      "description": "Powerful MacBook Pro with M1 Max chip for professional use.",
+      "specification": [
+        { "processor": "Apple M1 Max" },
+        { "ram": "32GB" },
+        { "storage": "1TB SSD" },
+        { "display": "16-inch Retina" }
+      ],
+      "availability": "In stock",
+      "rating": 4.9
+    },
+    {
+      "product_id": "IPH001",
+      "product_title": "iPhone 14 Pro",
+      "product_image": "https://i.ibb.co.com/xDvyjq1/iphone-4-pro.jpg",
+      "price": 999,
+      "category": "iPhones",
+      "description": "Apple's latest iPhone with advanced camera and Dynamic Island feature.",
+      "specification": [
+        { "processor": "A16 Bionic" },
+        { "ram": "6GB" },
+        { "storage": "128GB" },
+        { "camera": "Triple-lens (48MP + 12MP + 12MP)" },
+        { "display": "6.1-inch OLED" }
+      ],
+      "availability": "In stock",
+      "rating": 4.9
+    },
+    {
+      "product_id": "IPH002",
+      "product_title": "iPhone 14",
+      "product_image": "https://i.ibb.co.com/d6sFRVn/iphone-14.jpg",
+      "price": 799,
+      "category": "iPhones",
+      "description": "iPhone 14 with excellent battery life and A15 Bionic processor.",
+      "specification": [
+        { "processor": "A15 Bionic" },
+        { "ram": "4GB" },
+        { "storage": "128GB" },
+        { "camera": "Dual-lens (12MP + 12MP)" },
+        { "display": "6.1-inch OLED" }
+      ],
+      "availability": "In stock",
+      "rating": 4.7
+    }
+  ]
+}
